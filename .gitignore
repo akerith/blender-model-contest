@@ -1,0 +1,5 @@
+# made by the kit when you run a contestant yourself
+concorrenti/
+__pycache__/
+*.blend
+*.blend1

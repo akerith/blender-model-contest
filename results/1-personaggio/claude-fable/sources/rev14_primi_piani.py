@@ -1,0 +1,6 @@
+exec(open(r"C:\Users\USER\gara-modelli\concorrenti\claude-fable\lavoro\rev_lib.py").read())
+# close-ups to check the finished model (nothing is changed here)
+shot("rev_14_busto", (0, 0, 1.33), 0.72, d=(0.25, -1, 0.15))
+shot("rev_14_fianco_dx", (-0.18, 0, 0.88), 0.5, d=(-0.6, -1, 0.15))
+shot("rev_14_sotto_braccio_sx", (0.25, 0.05, 1.1), 0.7, d=(1, 0.25, 0.1))
+shot("rev_14_viso", (0, 0, 1.585), 0.34, d=(0.35, -1, 0.05))
